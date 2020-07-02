@@ -3,9 +3,9 @@
 ## Setup
 Create an virtual environment. Click [here](https://virtualenvwrapper.readthedocs.io/en/latest/) to learn how to do that.
 
-Activate virtual environment
+Activate virtual environment. Eg A virtual environment named **azubi**
 ```bash
-workon **name_of_your_virtual_environment**
+workon azubi
 ```
 
 ## Install Project Requirements

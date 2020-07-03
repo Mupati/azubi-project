@@ -1,0 +1,154 @@
+Region,District,FacilityName,Type,Town,Ownership,Latitude,Longitude
+Ashanti,Kumasi Metropolitan,Amansie Enterprise Clinic,Clinic,,Private,6.415,-1.37548
+Ashanti,Kumasi Metropolitan,Restoration Clinic,Clinic,,Private,6.415,-1.37548
+Ashanti,Mampong Municipal,Calvary Health Service,Clinic,,Private,7.03397,-1.24294
+Ashanti,Offinso Municipal,Offinso District Health Directorate,District Health Directorate,,Government,6.563089999999999,-1.40268
+Brong Ahafo,Dormaa Municipal,Florence Maternity Home,Maternity Home,,Maternity Home,7.277284,-2.876257
+Brong Ahafo,Dormaa Municipal,EMC Kwaku Any Maternity Home,Maternity Home,,Maternity Home,7.277284,-2.876257
+Brong Ahafo,Tain,Nyarko Maternity Home,Maternity Home,,Private,8.0396604,-2.3813621
+Brong Ahafo,Kintampo South,Adom Maternity Home,Maternity Home,,Private,7.868518300000001,-1.7538817
+Brong Ahafo,Kintampo South,Apesika Clinic,Clinic,,Private,7.868518300000001,-1.7538817
+Brong Ahafo,Kintampo South,Mansie Clinic,Clinic,,Private,7.868518300000001,-1.7538817
+Brong Ahafo,Tano South,Brosankro Maternity Home,Maternity Home,,Private,7.1315171,-2.027319
+Brong Ahafo,Jaman South,Psychiasdtric Unit,Clinic,,Government,7.6887685,-2.8577105
+Brong Ahafo,Jaman South,Eye Clinic,Clinic,,Private,7.6887685,-2.8577105
+Brong Ahafo,Berekum Municipal,Mercy Clinic,Clinic,,Private,7.4041716,-2.4439252999999996
+Central,Mfantseman,Gods Gift Maternity Home,Maternity Home,,Private,5.204219999999999,-1.05516
+Central,Mfantseman,Mercy Maternity & Fistula Women Centre,Hospital,,Private,5.204219999999999,-1.05516
+Central,Mfantseman,Bethel Heamopatic CHPS,CHPS,,Government,5.204219999999999,-1.05516
+Central,Mfantseman,Immuna Clinic,Clinic,,Private,5.204219999999999,-1.05516
+Central,Mfantseman,Srafa Kokodo Clinic,Clinic,,Private,5.204219999999999,-1.05516
+Central,Upper Denkyira East,Sunkwa Clinic,Clinic,,Private,5.81374,-1.7701900000000002
+Central,Upper Denkyira East,Zion Clinic,Clinic,,Private,5.81374,-1.7701900000000002
+Central,Agona East,El-Shaddai Maternity Home,Maternity Home,,Government,5.65241,-0.75572
+Central,Agona East,Jonof Maternity Home,Maternity Home,,Government,5.65241,-0.75572
+Central,Agona East,Agona District Health Directorate,District Health Directorate,,Government,5.65241,-0.75572
+Central,Agona West Municipal,Dergewa Maternity Home,Maternity Home,,Government,5.52313,-0.70139
+Central,Asikuma-Odoben-Brakwa,Ocran Maternity Home,Maternity Home,,Government,5.73664,-1.0124
+Central,Awutu Senya,Marfred Maternity Home,Maternity Home,,Government,5.30355,-0.31051
+Central,Awutu Senya,Mighty Crag Marternity Home,Maternity Home,,Government,5.30355,-0.31051
+Central,Gomoa East,Margo Maternity Home,Maternity Home,,Private,5.52401,-0.47508
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Good Sheperd Maternity Home,Maternity Home,,Private,5.05282,-1.4931299999999998
+Central,Komenda-Edina-Eguafo-Abirem Municipal,Bando Han-Medical Centre,Clinic,,Private,5.05282,-1.4931299999999998
+Central,Komenda-Edina-Eguafo-Abirem Municipal,S.A.P CHPS,CHPS,,Government,5.05282,-1.4931299999999998
+Eastern,Kweabibirem,St Micheal RCH,RCH,,Private,6.152058900000001,-0.8294002
+Greater Accra,Tema Metropolitan,Raphel Medical Centre,Health Centre,,Private,5.64655,-0.00772
+Greater Accra,Ga East,Beans Clinic,Clinic,,Private,5.7088730000000005,-0.24323070000000002
+Volta,Kadjebi,Dede Maternity Home,Maternity Home,,Private,7.527539999999999,0.47695
+Volta,South Tongu,Fame Clinic,Clinic,,Private,5.8878900000000005,0.6308699999999999
+Volta,Hohoe,St micheal's Clinic,Clinic,,Private,7.149038900000001,0.4746
+Volta,Hohoe,Dr. Quarcoo's Clinic,Clinic,,Private,7.149038900000001,0.4746
+Volta,Jasikan,Green Hill Clinic,Clinic,,Private,7.4108333,0.46694440000000004
+Volta,Jasikan,St Anthony Maternity Home,Maternity Home,,CHAG,7.4108333,0.46694440000000004
+Volta,Jasikan,Gbedemah Maternity Home,Maternity Home,,Private,7.4108333,0.46694440000000004
+Volta,Jasikan,Truth Maternity Home,Maternity Home,,Private,7.4108333,0.46694440000000004
+Volta,Jasikan,Odumanse Clinic,Clinic,,Government,7.4108333,0.46694440000000004
+Volta,Jasikan,Dzolu Community Clinic,Clinic,,Government,7.4108333,0.46694440000000004
+Volta,Keta,EP Church Clinic,Clinic,,CHAG,5.910702,0.991867
+Volta,Keta,God's Grace Maternity Home,Maternity Home,,Private,5.910702,0.991867
+Volta,Keta,St Thomas Clinic,Clinic,,Private,5.910702,0.991867
+Volta,Ketu,Dzigbordi Redemption Clinic,Clinic,,Private,5.910702,0.991867
+Volta,Ketu,Ebenezer Clinic,Clinic,,Private,5.910702,0.991867
+Volta,Ketu,E. K. Clinic,Clinic,,Private,5.910702,0.991867
+Volta,Ketu,Elavanyo Clinc,Clinic,,Private,5.910702,0.991867
+Volta,Ketu,Mass Clinic,Clinic,,Private,5.910702,0.991867
+Volta,Ketu,Mawuenyega Maternity Home,Maternity Home,,Private,5.910702,0.991867
+Volta,Ketu,Atlantic Clinic,Clinic,,Private,5.910702,0.991867
+Volta,Ketu,St Christopher Maternity Home,Maternity Home,,Private,5.910702,0.991867
+Western,Ahanta West,Nana Hima-Dekyi Hospital,District Hospital,,Government,4.849041000000001,-2.027319
+Western,Sefwi-Akontombra,Sefwi-Akontombra Health Assistance Training School,Training Institution,,Government,6.0418309,-2.8751691000000004
+Western,Ahanta West,Asanta Health Assistance Training School,Training Institution,,Government,4.849041000000001,-2.027319
+Western,Ahanta West,Ewusiejoe CHPS,CHPS,,Government,4.849041000000001,-2.027319
+Western,Ahanta West,Egyam Catholic Clinic,Clinic,,CHAG,4.849041000000001,-2.027319
+Western,Ahanta West,Akwidaa CHPS,CHPS,,Government,4.849041000000001,-2.027319
+Western,Ahanta West,Nana Hima-Dekyi Hospital,District Hospital,,Government,4.849041000000001,-2.027319
+Western,Ahanta West,Ekuba Ewoo Clinic,Clinic,,Private,4.849041000000001,-2.027319
+Western,Wassa-Amenfi West,Wuratrem CHPS,CHPS,,Government,5.6536109,-2.1659005000000002
+Western,Wassa-Amenfi West,Wassa Bonsie CHPS,CHPS,,Government,5.6536109,-2.1659005000000002
+Western,Wassa-Amenfi West,Moseaso CHPS,CHPS,,Government,5.6536109,-2.1659005000000002
+Western,Wassa-Amenfi West,Nana Amoanu Kwabeng Clinic,Clinic,,Private,5.6536109,-2.1659005000000002
+Western,Wassa-Amenfi West,Nkwantanum CHPS,CHPS,,Government,5.6536109,-2.1659005000000002
+Western,Wassa-Amenfi West,Moseaso CHPS,CHPS,,Government,5.6536109,-2.1659005000000002
+Western,Wassa-Amenfi West,Bisaaso Clinic,Clinic,,Government,5.6536109,-2.1659005000000002
+Western,Bia,Presby Clinic,Clinic,,Quasi-Government,6.9666667,-1.2666667
+Western,Bia,St. Luke Methodist Clinic,Clinic,,Quasi-Government,6.9666667,-1.2666667
+Western,Bia,St. John of God Clinic Annex,Clinic,,CHAG,6.9666667,-1.2666667
+Western,Bia,Kwasi Nkrumah CHPS,CHPS,,Government,6.9666667,-1.2666667
+Western,Bia,Eye Ewurade Maternity Home,Maternity Home,,Private,6.9666667,-1.2666667
+Western,Bia,Cashier CPS,CHPS,,Government,6.9666667,-1.2666667
+Western,Juabeso,Kantankrubo Clinic,Clinic,,Government,6.3148082,-2.8577105
+Western,Juabeso,Ghana Moslem Mission Maternity Home,Maternity Home,,Islamic,6.3148082,-2.8577105
+Western,Juabeso,Bepoase Clinic,Clinic,,Government,6.3148082,-2.8577105
+Western,Juabeso,Serwaa Maternity Home,Maternity Home,,Private,6.3148082,-2.8577105
+Western,Juabeso,Juabeso RCH,RCH,,Government,6.3148082,-2.8577105
+Western,Juabeso,The Promise of God Maternity Home,Maternity Home,,Private,6.3148082,-2.8577105
+Western,Juabeso,Rose Maternity Home,Maternity Home,,Private,6.3148082,-2.8577105
+Western,Shama Ahanta East,Sekondi College Clinic,Clinic,,Quasi-Government,4.8985081,-1.7621714
+Western,Shama Ahanta East,St. Paul's Clinic,Clinic,,Private,4.8985081,-1.7621714
+Western,Shama Ahanta East,Anaji Maternity Home,Maternity Home,,Private,4.8985081,-1.7621714
+Western,Shama Ahanta East,Pioneer Tobacco Clinic,Clinic,,Quasi-Government,4.8985081,-1.7621714
+Western,Shama Ahanta East,Fijai Secondary School Clinic,Clinic,,Government,4.8985081,-1.7621714
+Western,Shama Ahanta East,Old Hospital,Hospital,,Government,4.8985081,-1.7621714
+Western,Shama Ahanta East,Adom Clinic,Clinic,,Private,4.8985081,-1.7621714
+Western,Shama Ahanta East,Achbishop Porter Girls Clinic,Clinic,,Quasi-Government,4.8985081,-1.7621714
+Western,Shama Ahanta East,GAP Clinic,Clinic,,Quasi-Government,4.8985081,-1.7621714
+Western,Shama Ahanta East,Ghacem Clinic,Clinic,,Quasi-Government,4.8985081,-1.7621714
+Western,Shama Ahanta East,Peace Clinic,Clinic,,Private,4.8985081,-1.7621714
+Western,Shama Ahanta East,Solar Opticals Clinic,Clinic,,Private,4.8985081,-1.7621714
+Western,Shama Ahanta East,St. John Clinic,Clinic,,Private,4.8985081,-1.7621714
+Western,Shama Ahanta East,West African Mills Clinic,Clinic,,Quasi-Government,4.967229,-1.8932400000000003
+Western,Mpohor-Wassa East,Glory of God Maternity Home,Maternity Home,,Private,4.967229,-1.8932400000000003
+Western,Wassa West,SDA Clinic,Clinic,,Private,5.4347018,-2.1441241
+Western,Wassa West,B.G.L (Crusader) Clinic,Clinic,,Private,5.4347018,-2.1441241
+Western,Wassa West,S.A.B Maternity Home,Maternity Home,,Private,5.4347018,-2.1441241
+Western,Wassa West,Insusiding CHPS,CHPS,,Government,5.4347018,-2.1441241
+Western,Wassa West,Teysec Clinic,Clinic,,Private,5.4347018,-2.1441241
+Western,Wassa West,Daamang CHPS,CHPS,,Government,5.4347018,-2.1441241
+Western,Wassa West,G.A.G/A.G.A/A.A.I.L/Sam Jona Clinic,Clinic,,Private,5.4347018,-2.1441241
+Western,Aowin Suaman,Jema CHPS,CHPS,,Government,5.8071075,-2.8577105
+Western,Aowin Suaman,Dadieso Health Centre,Health Centre,,Government,5.8071075,-2.8577105
+Western,Aowin Suaman,Kwasuo/Bantama CHPS,CHPS,,Government,5.8071075,-2.8577105
+Western,Aowin Suaman,SDA Clinic,Clinic,,CHAG,5.8071075,-2.8577105
+Western,Aowin Suaman,Amonie Presby Clinic,Clinic,,CHAG,5.8071075,-2.8577105
+Western,Bibiani-Anhwiaso-Bekwai,Wenchi Clinic,Clinic,,CHAG,6.2752275,-2.2630392999999995
+Western,Bibiani-Anhwiaso-Bekwai,Bekwai Health Centre,Health Centre,,Government,6.2752275,-2.2630392999999995
+Western,Bibiani-Anhwiaso-Bekwai,Red Black Clinic,Clinic,,Private,6.2752275,-2.2630392999999995
+Western,Sefwi-Akontombra,Akontombra Health Centre,Health Centre,,Government,6.0418309,-2.8751691000000004
+Western,Sefwi-Akontombra,Yamfo CHPS,CHPS,,Government,6.0418309,-2.8751691000000004
+Western,Sefwi Wiawso,Abrabra Health Centre,Health Centre,,Government,6.1467019,-2.539603
+Western,Sefwi Wiawso,Ackaakrom Health Centre,Health Centre,,Government,6.1467019,-2.539603
+Western,Sefwi Wiawso,Aboagyekrom CHPS,CHPS,,Government,6.1467019,-2.539603
+Western,Sefwi Wiawso,Wiawso Government Hospital,Hospital,,Government,6.1467019,-2.539603
+Western,Sefwi Wiawso,Paboase CHPS,CHPS,,Government,6.1467019,-2.539603
+Western,Sefwi Wiawso,Wiaso District Health Directorate,District Health Directorate,,Government,6.1467019,-2.539603
+Western,Nzema East,Aidoosuazo CHPS,CHPS,,Government,5.138789,-2.3813621
+Western,Nzema East,Kwasikrom CHPS,CHPS,,Government,5.138789,-2.3813621
+Western,Nzema East,A.B Bokazo CHPS,CHPS,,Government,5.138789,-2.3813621
+Western,Nzema East,Krisan Refugee Camp Clinic,Clinic,,Quasi-Government,5.138789,-2.3813621
+Western,Nzema East,Kutukrom Health Centre,Health Centre,,Government,5.138789,-2.3813621
+Western,Jomoro,New Town Clinic,Clinic,,Government,5.1793713,-2.6586401
+Western,Jomoro,Fatima Clinic,Clinic,,CHAG,5.1793713,-2.6586401
+Western,Bibiani-Anhwiaso-Bekwai,Central African Gold Hospital,Hospital,,Private,6.2752275,-2.2630392999999995
+Western,Bibiani-Anhwiaso-Bekwai,Divine Love Hospital,Hospital,,Government,6.2752275,-2.2630392999999995
+Western,Bibiani-Anhwiaso-Bekwai,ISOS Clinic,Clinic,,Private,6.2752275,-2.2630392999999995
+Western,Bibiani-Anhwiaso-Bekwai,Bibiani-Anhwiaso-Bekwai District Health Directorate,District Health Directorate,,Government,6.2752275,-2.2630392999999995
+Western,Ellembele,Nana Benie M. Clinic,Clinic,,Private,,
+Western,Ellembele,A. B. Bokazo Clinic,Clinic,,Private,,
+Western,Ellembele,St. Martin de Porres Hospitakl,Hospital,,CHAG,,
+Western,Ellembele,Krisan Camp Clinic,Clinic,,CHAG,,
+Western,Ellembele,Mobile Clinic,Clinic,,Government,,
+Western,Ellembele,NASS SCH Clinic,Clinic,,Government,,
+Western,Ellembele,West African Rescue Association Clinic,Clinic,,Government,,
+Western,Ellembele,Ellembele District Health Directorate,District Health Directorate,,Government,,
+Western,Jomoro,Angel Clinic,Clinic,,Private,5.1793713,-2.6586401
+Western,Juabeso,Nyame Ama Clinc,Clinic,,CHAG,5.1793713,-2.6586401
+Western,Juabeso,Nallice Maternity,Maternity Home,,Private,5.1793713,-2.6586401
+Western,Sefwi Wiawso,Greenshield Clinic,Clinic,,Private,6.1467019,-2.539603
+Western,Shama,Living Well CHPS,CHPS,,Government,5.0194828000000005,-1.6269003
+Western,Shama,Inchaban CHPS,CHPS,,Government,5.0194828000000005,-1.6269003
+Western,Shama,St.Benedit Hospital,Hospital,,Private,5.0194828000000005,-1.6269003
+Western,Tarkwa Nsuaem Municipal,Church of Pentecost Clinic,Clinic,,CHAG,5.299986,-1.992202
+Western,Tarkwa Nsuaem Municipal,Sam Jonna Clinic,Clinic,,Private,5.299986,-1.992202
+Western,Tarkwa Nsuaem Municipal,Divine Clinic,Clinic,,Private,5.299986,-1.992202
+Western,Wassa-Amenfi West,Kwabeng Clinic,Clinic,,Private,5.6536109,-2.1659005000000002
+Western,Wassa-Amenfi West,Asanco SHS Sickbay,Clinic,,Private,5.6536109,-2.1659005000000002

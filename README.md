@@ -46,3 +46,8 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
+
+## Converting Notebook into a Slideshow Presentation
+``bash
+jupyter nbconvert Hospital\ Project.ipynb --to slides --post serve --template output_toggle.tpl
+```

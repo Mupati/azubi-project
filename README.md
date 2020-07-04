@@ -48,6 +48,6 @@ jupyter notebook
 ```
 
 ## Converting Notebook into a Slideshow Presentation
-``bash
+```bash
 jupyter nbconvert Hospital\ Project.ipynb --to slides --post serve --template output_toggle.tpl
 ```

@@ -142,5 +142,5 @@ cython_debug/
 
 # copy of notebook
 old_hospital_project.ipynb
-shape_files
+shape_files/*
 extra_hospital_data.csv

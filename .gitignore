@@ -142,3 +142,4 @@ cython_debug/
 
 # copy of notebook
 old_hospital_project.ipynb
+shape_files/
